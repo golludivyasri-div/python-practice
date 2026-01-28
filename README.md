@@ -9,3 +9,6 @@ This repository contains my python learning progress
 -practice programs
 -functions
 This repository is part of my internship preparation
+##Day3
+-conditional statements 
+-loops
